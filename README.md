@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thiago</h1>
+<h1 align="center">Hi, I'm Thiago</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thiago-rezende-9a192a163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiago-rezende-9a192a163/" height="30" width="40" /></a>
@@ -9,5 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagordi&show_icons=true&theme=dark&locale=en&layout=compact" alt="thiagordi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagordi&show_icons=true&theme=dark&title_color=0f1cd2&text_color=1909f6&locale=en" alt="thiagordi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagordi&show_icons=true&theme=dark&title_color=030303&text_color=0f0f0f&locale=en" alt="thiagordi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagordi&" alt="thiagordi" /></p>
 
