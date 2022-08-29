@@ -9,6 +9,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagordi&show_icons=true&theme=dark&title_color=faf9f9&text_color=fafafa&locale=en&layout=compact" alt="thiagordi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagordi&show_icons=true&theme=dark&title_color=030303&text_color=0f0f0f&locale=en" alt="thiagordi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiagordi&show_icons=true&theme=dark&title_color=f8f7f7&text_color=fcfcfc&locale=en" alt="thiagordi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagordi&theme=dark" alt="thiagordi" /></p>
